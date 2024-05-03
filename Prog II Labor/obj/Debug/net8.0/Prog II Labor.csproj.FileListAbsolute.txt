@@ -1,0 +1,14 @@
+/Users/jbheuschen/RiderProjects/Prog II Labor/Prog II Labor/bin/Debug/net8.0/Prog II Labor
+/Users/jbheuschen/RiderProjects/Prog II Labor/Prog II Labor/bin/Debug/net8.0/Prog II Labor.deps.json
+/Users/jbheuschen/RiderProjects/Prog II Labor/Prog II Labor/bin/Debug/net8.0/Prog II Labor.runtimeconfig.json
+/Users/jbheuschen/RiderProjects/Prog II Labor/Prog II Labor/bin/Debug/net8.0/Prog II Labor.dll
+/Users/jbheuschen/RiderProjects/Prog II Labor/Prog II Labor/bin/Debug/net8.0/Prog II Labor.pdb
+/Users/jbheuschen/RiderProjects/Prog II Labor/Prog II Labor/obj/Debug/net8.0/Prog II Labor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jbheuschen/RiderProjects/Prog II Labor/Prog II Labor/obj/Debug/net8.0/Prog II Labor.AssemblyInfoInputs.cache
+/Users/jbheuschen/RiderProjects/Prog II Labor/Prog II Labor/obj/Debug/net8.0/Prog II Labor.AssemblyInfo.cs
+/Users/jbheuschen/RiderProjects/Prog II Labor/Prog II Labor/obj/Debug/net8.0/Prog II Labor.csproj.CoreCompileInputs.cache
+/Users/jbheuschen/RiderProjects/Prog II Labor/Prog II Labor/obj/Debug/net8.0/Prog II Labor.dll
+/Users/jbheuschen/RiderProjects/Prog II Labor/Prog II Labor/obj/Debug/net8.0/refint/Prog II Labor.dll
+/Users/jbheuschen/RiderProjects/Prog II Labor/Prog II Labor/obj/Debug/net8.0/Prog II Labor.pdb
+/Users/jbheuschen/RiderProjects/Prog II Labor/Prog II Labor/obj/Debug/net8.0/Prog II Labor.genruntimeconfig.cache
+/Users/jbheuschen/RiderProjects/Prog II Labor/Prog II Labor/obj/Debug/net8.0/ref/Prog II Labor.dll
